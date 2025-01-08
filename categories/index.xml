@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 大大的疑惑网址导航</title>
-    <link>https://command200.gitee.io/categories/</link>
+    <link>https://command200.github.io/categories/</link>
     <description>Recent content in Categories on 大大的疑惑网址导航</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://command200.gitee.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <atom:link href="https://command200.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
